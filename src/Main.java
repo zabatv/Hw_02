@@ -17,9 +17,6 @@ public class Main {
         1 2 4 8 16 32 64 128 256 512*/
         for (int i = 1; i < 513; i += i) {
             System.out.println(i);
-
-
-
         }
     }
 }
