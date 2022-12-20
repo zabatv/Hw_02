@@ -4,7 +4,7 @@ public class Main {
         for (int i = 1904; i < 2096; i = i + 4) {
             if (i % 4 == 0 && i % 100 !=0 || i %400 == 0){
             System.out.println(i + " год является високосным");}
-            
+
         }
         System.out.println("Следушее задание:");
 
